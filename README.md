@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./rz-logo.png" width="450" alt="Redzone Studios" />
+  <img src="./rz-logo.png" width="750" alt="Redzone Studios" />
 </div>
 
 <br/>
