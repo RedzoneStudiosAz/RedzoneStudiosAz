@@ -1,16 +1,22 @@
-## Hi there 👋
+<!-- Kızıl-Siyah Dalgalı Üst Banner -->
+<div align="center">
+  <img src="https://vercel.app" width="100%" alt="Redzone Studios" />
+</div>
 
-<!--
-**RedzoneStudiosAz/RedzoneStudiosAz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔴 About Redzone Studios
+Welcome to **Redzone Studios**!
 
-Here are some ideas to get you started:
+### 🌐 Socials
+<p align="left">
+  <a href="https://github.com"><img src="https://skillicons.dev" height="35" alt="GitHub" /></a>
+  <a href="https://x.com"><img src="https://skillicons.dev" height="35" alt="X" /></a>
+  <a href="https://instagram.com"><img src="https://skillicons.dev" height="35" alt="Instagram" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Project
+<a href="https://github.com/Redzone-Terminal">
+  <img src="https://vercel.app" alt="Redzone-Terminal" />
+</a>
+
+### 📊 GitHub Stats
+<img src="./github-metrics.svg" alt="GitHub Metrics" />
