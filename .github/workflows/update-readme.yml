@@ -1,0 +1,25 @@
+name: Update README
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  markscribe:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: muesli/markscribe@master
+        with:
+          template: README.gtpl
+          writeTo: README.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+      - name: Commit updated README
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@://github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update README.md" && git push)
