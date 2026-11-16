@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="./rz-logo.png" width="750" alt="Redzone Studios" />
-</div>
-
-<br/>
+<p align="center"><img src="./rz-logo.png"  alt="Redzone Studios" /></p>
 
 ### Socials
 <p align="left">
