@@ -25,6 +25,8 @@ Welcome to **Redzone Studios**! Based in **Azerbaijan**
 
 ### 🚀 Latest Repositories (Auto-Updated)
 
+* **[RedzoneStudiosAz/Redzone-Weather](https://github.com/RedzoneStudiosAz/Redzone-Weather)** —  *(⭐ 0)*
+
 * **[RedzoneStudiosAz/Redzone-Terminal](https://github.com/RedzoneStudiosAz/Redzone-Terminal)** — Turn your Windows Terminal into a sleek crimson-black command center. One-click setup for PowerShell 7, custom Acrylic theme, and an ultra-fast 10-language live system telemetry dashboard. *(⭐ 1)*
 
 
