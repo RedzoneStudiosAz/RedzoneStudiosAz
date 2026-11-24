@@ -34,7 +34,7 @@ Welcome to **Redzone Studios**! Based in **Azerbaijan**
 
 ### ⚡ Recent Activity
 
-* Contributed to **[RedzoneStudiosAz/Redzone-Terminal](https://github.com/RedzoneStudiosAz/Redzone-Terminal)** (6 days ago)
+* Contributed to **[RedzoneStudiosAz/Redzone-Terminal](https://github.com/RedzoneStudiosAz/Redzone-Terminal)** (1 week ago)
 
 
 <br/>
